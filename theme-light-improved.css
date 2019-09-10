@@ -1,0 +1,67 @@
+.theme-light {
+    --header-primary:#fff;
+    --header-secondary:#4f5660;
+    --text-normal:#2e3338;
+    --text-muted:#747f8d;
+    --text-link:#0067e0;
+    --channels-default:#8e9297;
+    --interactive-normal:#b9bbbe;
+    --interactive-hover:#dcddde;
+    --interactive-active:white;
+    --interactive-muted:#4f545c;
+    --background-primary:#ececec;
+    --background-secondary:#2f3136;
+    --background-tertiary:#202225;
+    --background-accent:#747f8d;
+    --background-floating:#fff;
+    --background-modifier-hover:rgba(79,84,92,0.16);
+    --background-modifier-active:rgba(116,127,141,0.16);
+    --background-modifier-selected:rgba(116,127,141,0.24);
+    --background-modifier-accent:rgba(6,6,7,0.08);
+    --elevation-low:0 1px 0 rgba(6,6,7,0.1),0 1.5px 0 rgba(6,6,7,0.025),0 2px 0 rgba(6,6,7,0.025);
+    --elevation-high:0 8px 16px rgba(0,0,0,0.16);--guild-header-text-shadow:0 1px 1px hsla(0,0%,100%,0.4);
+    --channeltextarea-background:#e5e5e5;
+    --activity-card-background:#fff;
+    --deprecated-panel-background:#292b2f;
+    --deprecated-card-bg:#f8f9f9;
+    --deprecated-card-editable-bg:rgba(246,246,247,0.6);
+    --deprecated-store-bg:#f8f9f9;
+    --deprecated-quickswitcher-input-background:#fff;
+    --deprecated-quickswitcher-input-placeholder:rgba(79,84,92,0.3);
+    --deprecated-text-input-bg:rgba(79,84,92,0.02);
+    --deprecated-text-input-border:rgba(79,84,92,0.3);
+    --deprecated-text-input-border-hover:#b9bbbe;
+    --deprecated-text-input-border-disabled:#dcddde;
+    --deprecated-text-input-prefix:#b9bbbe;
+}
+.title-29uC1r, .username-_4ZSMR, .defaultColor-1_ajX0, .title-31JmR4, .radioGroup-1GBvlr {
+    color: #060607;
+}
+.members-1998pB, .wrapper-39oAo3 {
+    background-color: #f2f3f5
+}
+.clickable-1JJAn8:hover .layout-2DM8Md {
+    background-color: rgba(116,127,141,0.08)
+}
+.searchBar-3dMhjb {
+    background-color: #e3e5e8;
+}
+.clickable-3rdHwn .icon-22AiRD {
+    color: #4f5660
+}
+.clickable-3rdHwn:hover .icon-22AiRD {
+    color: #2e3338;
+}
+.cardPrimaryEditable-3KtE4g {
+    background: rgba(221,221,222,0.6);
+}
+.cardPrimary-1Hv-to, .cardPrimaryEditable-3KtE4g {
+    border-color: #d0d2d6
+}
+.itemBase-1Qj4z6:hover {
+    background-color: rgba(116,127,141,0.08);
+    color: #2e3338
+}
+.listRow-hutiT_, .connectedAccountName-f8AEe2 {
+    color: #dcddde;
+}
