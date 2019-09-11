@@ -40,7 +40,7 @@
 .members-1998pB, .wrapper-39oAo3 {
     background-color: #f2f3f5
 }
-.clickable-1JJAn8:hover .layout-2DM8Md {
+.clickable-1JJAn8:hover .layout-2DM8Md, .clickable-11uBi-:hover, .selected-BYpGTS {
     background-color: rgba(116,127,141,0.08)
 }
 .searchBar-3dMhjb {
@@ -64,4 +64,11 @@
 }
 .listRow-hutiT_, .connectedAccountName-f8AEe2 {
     color: #dcddde;
+}
+.markup-2BOw-j code {
+    background-color: #e3e5e8
+}
+.markup-2BOw-j pre {
+    border-color: #d6d8d9;
+    background-color: #e3e5e8;
 }
