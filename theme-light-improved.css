@@ -38,16 +38,16 @@
     color: #060607;
 }
 .members-1998pB, .wrapper-39oAo3 {
-    background-color: #f2f3f5
+    background-color: #f2f3f5;
 }
 .clickable-1JJAn8:hover .layout-2DM8Md, .clickable-11uBi-:hover, .selected-BYpGTS {
-    background-color: rgba(116,127,141,0.08)
+    background-color: rgba(116,127,141,0.08);
 }
 .searchBar-3dMhjb {
     background-color: #e3e5e8;
 }
 .clickable-3rdHwn .icon-22AiRD {
-    color: #4f5660
+    color: #4f5660;
 }
 .clickable-3rdHwn:hover .icon-22AiRD {
     color: #2e3338;
@@ -56,19 +56,27 @@
     background: rgba(221,221,222,0.6);
 }
 .cardPrimary-1Hv-to, .cardPrimaryEditable-3KtE4g {
-    border-color: #d0d2d6
+    border-color: #d0d2d6;
 }
 .itemBase-1Qj4z6:hover {
     background-color: rgba(116,127,141,0.08);
-    color: #2e3338
+    color: #2e3338;
 }
 .listRow-hutiT_, .connectedAccountName-f8AEe2 {
     color: #dcddde;
 }
 .markup-2BOw-j code {
-    background-color: #e3e5e8
+    background-color: #e3e5e8;
 }
 .markup-2BOw-j pre {
     border-color: #d6d8d9;
     background-color: #e3e5e8;
+}
+.theme-light .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
+    border-color: #ececec;
+    background-color: #d7dadc;
+}
+.theme-light .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
+    border-color: #ececec;
+    background-color: #c2c2c2;
 }
